@@ -7,9 +7,9 @@ class grybai {
     }
 }
 
-let g1 = new grybas('baravykas');
-let g2 = new grybas('umede');
-let g3 = new grybas('lepsis');
+let g1 = new grybai('baravykas');
+let g2 = new grybai('umede');
+let g3 = new grybai('lepsis');
 console.log(g1);
 console.log(g2);
 console.log(g3);
